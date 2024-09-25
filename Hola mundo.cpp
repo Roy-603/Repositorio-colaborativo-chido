@@ -1,8 +1,8 @@
 #include <iostream>
 int main () 
 {
-int año = 2024; 
+int year = 2024; 
     printf("Hola Mundo :)");
-    printf("\nEstamos en el año %d", año);
+    printf("\nEstamos en el año %d", year);
 return 0;
 }
